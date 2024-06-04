@@ -1,4 +1,4 @@
-# WinRAR-Licen-a-Ilimitada
+# Ativação WinRAR 
 
 Acesse ao site do WinRAR e baixe a ultima versão:
 https://www.win-rar.com/download.html?&L=9
