@@ -4,7 +4,7 @@ Acesse ao site do WinRAR e baixe a ultima versão:
 https://www.win-rar.com/download.html?&L=9
 
 Após instalar abra o diretorio fonte do winrar:
-Ex: C:\Program Files\WinRAR
+
 
 Após instalar siga os seguintes passos:
 
@@ -25,9 +25,11 @@ d679c8255cbc8336f8e23c4b3f478a52561b8633b4601362349773
 2. Abra o NOTEPAD do Windows com Modo Administrador.
 3. Cole o texto coipado acima no Notepad.
 4. Clique em Arquivo -> Salvar Como.
-5. Localize a pasta de instalação do WinRAR.
+5. Localize a pasta de instalação do WinRAR (Ex: C:\Program Files\WinRAR).
 6. No campo Tipo, selecione Todos os Arquivos.
 7. No campo Nome, escreva rarreg.key
 8. Clique em Salvar.
+
+Pronto! Você pode ver ativado em Menu -> Ajuda -> Sobre o WinRAR…
 
 
